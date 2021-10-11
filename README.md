@@ -22,6 +22,6 @@ write and save notes     | organize my thoughts and keep track of tasks
 <br/><br/>
 
 ## 📹 Video Demonstration
-<video controls width="80%" align="center" src="./public/images/Fitness Tracker.webm" type="video/webm"> 
+<video controls width="80%" align="center" src="./public/images/Note Taker.webm" type="video/webm"> 
     Sorry, your browser doesn't support embedded videos.
 </video>
